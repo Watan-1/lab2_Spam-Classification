@@ -13,8 +13,8 @@ This lab is simple Machine Learning
 
 ## Diagram
 - lab2pic.png
-- 
-##Tools
+  
+## Tools
 - python
 - pandas
 - Google Colab
